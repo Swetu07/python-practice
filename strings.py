@@ -21,8 +21,8 @@ print(name[1:5])
 name = "swetank"
 
 print(len(name))
-print(name.endswith("rry"))
-print(name.startswith("ha"))
+print(name.endswith("ank"))
+print(name.startswith("sw"))
 print(name.capitalize())
 
 # escape sequence
